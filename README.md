@@ -1,8 +1,8 @@
 #### TOPIC: SOAP AND SKINCARE SALES ANALYSIS
 ### Table of Content
-[INTRODUCTION](#INTRODUCTION)
-[PROBLEM STATEMENT](#PROBLEM STATEMENT)
-[ANALYSIS QUESTION](#ANALYSIS QUESTION)
+-[INTRODUCTION](#INTRODUCTION)
+-[PROBLEM STATEMENT](#PROBLEM STATEMENT)
+-[ANALYSIS QUESTION](#ANALYSIS QUESTION)
 
 # INTRODUCTION
 The consumer Packaged Goods Industry is highly competitive and fast-moving, especially in the personal care segment. Soap and skincare products, which form a crucial part of everyday hygiene routines, experience frequent changes in consumer preferences, brand loyalty, and regional demand. For business to remain profitable, they must monitor sales trends, identify top-performing products, and understand regional market differences.
