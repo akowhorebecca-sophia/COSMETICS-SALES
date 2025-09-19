@@ -2,7 +2,7 @@
 ### Table of Content
 [INTRODUCTION](#INTRODUCTION)
 
-#INTRODUCTION
+# INTRODUCTION
 The consumer Packaged Goods Industry is highly competitive and fast-moving, especially in the personal care segment. Soap and skincare products, which form a crucial part of everyday hygiene routines, experience frequent changes in consumer preferences, brand loyalty, and regional demand. For business to remain profitable, they must monitor sales trends, identify top-performing products, and understand regional market differences.
 This project aims to analyze soap and skincare product sales across multiple regions and brands, using Excel tools such as formulas, pivot tables, and interactive dashboards. The goal is to generate actionable and inventory decisions.
 
